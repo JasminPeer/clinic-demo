@@ -1,0 +1,15 @@
+{
+  "name": "caresphere-clinic-platform",
+  "version": "1.0.0",
+  "description": "CareSphere Clinic - Modern Multispeciality Healthcare Platform (Kanchipuram, Tamil Nadu)",
+  "private": true,
+  "scripts": {
+    "dev": "npm run dev --prefix client",
+    "build": "npm run build --prefix client",
+    "server": "npm run dev --prefix server",
+    "start": "npm run start --prefix server"
+  },
+  "keywords": ["healthcare", "clinic", "kanchipuram", "google-maps", "react", "express", "mongodb"],
+  "author": "CareSphere Team",
+  "license": "ISC"
+}

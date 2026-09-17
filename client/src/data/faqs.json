@@ -1,0 +1,52 @@
+[
+  {
+    "category": "Appointments",
+    "question": "How do I book an appointment at CareSphere Clinic Kanchipuram?",
+    "answer": "You can book directly on our website through the 7-step appointment wizard, by calling our Kanchipuram desk at +91 44 2722 8900, or by walking into our Gandhi Road clinic."
+  },
+  {
+    "category": "Appointments",
+    "question": "Can I reschedule or cancel my appointment?",
+    "answer": "Yes. Appointments can be rescheduled or cancelled up to 2 hours before the scheduled time with no cancellation charges. Simply enter your confirmation ID (CS-2026-XXXX) or call the reception."
+  },
+  {
+    "category": "Doctors",
+    "question": "Are the doctors available for video / tele-consultations?",
+    "answer": "Yes. Several of our senior consultants offer scheduled video consultations for routine reviews, lab report analysis, and lifestyle follow-ups."
+  },
+  {
+    "category": "Doctors",
+    "question": "Can I consult a specialist directly without a referral?",
+    "answer": "Absolutely. You can book directly with any specialist (Cardiologist, Diabetologist, Gynaecologist, Paediatrician, Orthopaedic surgeon, Dermatologist, etc.) based on your health requirements."
+  },
+  {
+    "category": "Diagnostics",
+    "question": "Do I need to fast before my blood tests?",
+    "answer": "Tests such as Fasting Blood Sugar, Lipid Profile, and Liver Function Tests typically require 10 to 12 hours of overnight fasting (water is permitted). Other tests such as CBC, HbA1c, and Thyroid profiles do not require fasting."
+  },
+  {
+    "category": "Diagnostics",
+    "question": "Is home sample collection available in Kanchipuram?",
+    "answer": "Yes. Our certified phlebotomists provide sterile, temperature-controlled home blood sample collection across Kanchipuram municipal limits between 6:30 AM and 11:30 AM."
+  },
+  {
+    "category": "Reports",
+    "question": "How soon will I receive my diagnostic lab reports?",
+    "answer": "Routine blood counts and sugar tests are ready within 2-3 hours. Specialized biochemistry panels (Lipid, Thyroid, Vitamin levels) are reported within 4-8 hours. Reports are delivered via SMS link, WhatsApp, and patient portal."
+  },
+  {
+    "category": "Clinic Visits",
+    "question": "What are the clinic timings for CareSphere Kanchipuram?",
+    "answer": "Our main Kanchipuram clinic is open Monday through Saturday from 7:30 AM to 9:30 PM, and on Sundays from 8:00 AM to 2:00 PM. The diagnostic collection center opens at 7:00 AM."
+  },
+  {
+    "category": "Payments",
+    "question": "What payment methods are accepted at the clinic?",
+    "answer": "We accept UPI (Google Pay, PhonePe, Paytm), debit and credit cards, net banking, and cash. Digital payment receipts are provided immediately."
+  },
+  {
+    "category": "Health Information",
+    "question": "Is the medical content on this website verified?",
+    "answer": "All health educational materials, disease guides, and symptom overviews are written and reviewed by licensed medical professionals according to national and international clinical guidelines. However, it is provided strictly for educational purposes and is not a substitute for clinical diagnosis."
+  }
+]

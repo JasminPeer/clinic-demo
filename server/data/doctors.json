@@ -1,0 +1,320 @@
+[
+  {
+    "id": "dr-ananya-sundaram",
+    "name": "Dr. Ananya Sundaram",
+    "gender": "Female",
+    "specialty": "General Medicine",
+    "qualification": "MBBS, MD (General Medicine)",
+    "experienceYears": 14,
+    "languages": ["Tamil", "English", "Telugu"],
+    "clinicId": "caresphere-kanchipuram-main",
+    "clinicName": "CareSphere Multispeciality Clinic, Kanchipuram",
+    "consultationFee": 400,
+    "consultationType": "Both",
+    "availability": "Mon - Sat (9:00 AM - 1:00 PM, 5:00 PM - 8:30 PM)",
+    "rating": 4.9,
+    "reviewsCount": 184,
+    "image": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?auto=format&fit=crop&w=600&q=80",
+    "about": "Dr. Ananya Sundaram is a senior consultant physician specializing in infectious diseases, chronic lifestyle condition management (diabetes & hypertension), and adult preventive immunizations. With over 14 years of clinical experience in Tamil Nadu, she emphasizes clear patient communication and evidence-based diagnostic protocols.",
+    "education": [
+      "MBBS - Madras Medical College, Chennai",
+      "MD (General Medicine) - Stanley Medical College, Chennai",
+      "Fellowship in Adult Diabetology - Royal College of Physicians (Edin)"
+    ],
+    "experience": [
+      "Senior Physician - CareSphere Clinic Kanchipuram (2020 - Present)",
+      "Consultant Physician - Apollo Hospitals Chennai (2015 - 2020)",
+      "Resident Physician - Government General Hospital Chennai (2010 - 2014)"
+    ],
+    "services": [
+      "Chronic Disease Management (Diabetes & BP)",
+      "Fever & Infectious Disease Evaluation",
+      "Adult Vaccinations",
+      "Annual Health Screenings",
+      "Geriatric Comprehensive Assessments"
+    ],
+    "faqs": [
+      {
+        "question": "Does Dr. Ananya offer video consultations?",
+        "answer": "Yes, online consultations are available Monday through Friday from 2:00 PM to 4:00 PM."
+      },
+      {
+        "question": "What should I bring for my first consultation?",
+        "answer": "Please bring any previous lab reports, prescription slips, blood sugar logs, and current medication boxes."
+      }
+    ]
+  },
+  {
+    "id": "dr-karthik-raghavan",
+    "name": "Dr. Karthik Raghavan",
+    "gender": "Male",
+    "specialty": "Cardiology",
+    "qualification": "MBBS, MD (Medicine), DM (Cardiology)",
+    "experienceYears": 16,
+    "languages": ["Tamil", "English"],
+    "clinicId": "caresphere-kanchipuram-main",
+    "clinicName": "CareSphere Multispeciality Clinic, Kanchipuram",
+    "consultationFee": 650,
+    "consultationType": "In-clinic",
+    "availability": "Tue, Thu, Sat (10:00 AM - 2:00 PM)",
+    "rating": 4.95,
+    "reviewsCount": 220,
+    "image": "https://images.unsplash.com/photo-1622253692010-333f2da6031d?auto=format&fit=crop&w=600&q=80",
+    "about": "Dr. Karthik Raghavan is a distinguished consultant cardiologist with expertise in preventive cardiology, hypertensive heart disease, ECG/Echo diagnostics, and lipid disorders.",
+    "education": [
+      "MBBS - Kilpauk Medical College, Chennai",
+      "MD (Internal Medicine) - JIPMER, Puducherry",
+      "DM (Cardiology) - Sri Ramachandra Institute of Higher Education"
+    ],
+    "experience": [
+      "Chief Consultant Cardiologist - CareSphere Clinic (2019 - Present)",
+      "Associate Consultant - Fortis Malar Hospital (2013 - 2019)"
+    ],
+    "services": [
+      "2D Echocardiography & Color Doppler",
+      "Treadmill Stress Test (TMT)",
+      "Hypertension Risk Stratification",
+      "Preventive Cardiac Checkups",
+      "Post-Angioplasty Follow-up"
+    ],
+    "faqs": [
+      {
+        "question": "Are cardiac diagnostic tests available at the clinic?",
+        "answer": "Yes, 12-lead ECG, 2D Echo, and stress tests are performed on-site at CareSphere Kanchipuram."
+      }
+    ]
+  },
+  {
+    "id": "dr-priya-natarajan",
+    "name": "Dr. Priya Natarajan",
+    "gender": "Female",
+    "specialty": "Paediatrics",
+    "qualification": "MBBS, DCH, DNB (Paediatrics)",
+    "experienceYears": 11,
+    "languages": ["Tamil", "English"],
+    "clinicId": "caresphere-kanchipuram-main",
+    "clinicName": "CareSphere Multispeciality Clinic, Kanchipuram",
+    "consultationFee": 400,
+    "consultationType": "Both",
+    "availability": "Mon - Sat (9:30 AM - 1:00 PM, 4:30 PM - 7:30 PM)",
+    "rating": 4.9,
+    "reviewsCount": 160,
+    "image": "https://images.unsplash.com/photo-1594824813581-2292f7e754a6?auto=format&fit=crop&w=600&q=80",
+    "about": "Dr. Priya Natarajan specializes in pediatric care, child growth monitoring, newborn nutrition, childhood asthma, and childhood immunizations under national and IAP schedules.",
+    "education": [
+      "MBBS - Madurai Medical College",
+      "DCH - Institute of Child Health, Egmore, Chennai",
+      "DNB (Pediatrics) - National Board of Examinations"
+    ],
+    "experience": [
+      "Pediatric Specialist - CareSphere Clinic Kanchipuram (2021 - Present)",
+      "Consultant Pediatrician - Rainbow Children's Hospital (2016 - 2021)"
+    ],
+    "services": [
+      "Newborn & Infant Well-Baby Checks",
+      "IAP Child Immunizations",
+      "Childhood Asthma & Allergy Clinic",
+      "Developmental Milestone Tracking",
+      "Pediatric Nutrition & Feeding Advice"
+    ],
+    "faqs": [
+      {
+        "question": "Do you administer pediatric vaccines on the same day?",
+        "answer": "Yes, our certified cold-chain vaccine bank stocks all IAP recommended vaccines."
+      }
+    ]
+  },
+  {
+    "id": "dr-subramanian-venkat",
+    "name": "Dr. V. Subramanian",
+    "gender": "Male",
+    "specialty": "Orthopaedics",
+    "qualification": "MBBS, MS (Ortho), DNB (Ortho)",
+    "experienceYears": 18,
+    "languages": ["Tamil", "English"],
+    "clinicId": "caresphere-kanchipuram-main",
+    "clinicName": "CareSphere Multispeciality Clinic, Kanchipuram",
+    "consultationFee": 500,
+    "consultationType": "In-clinic",
+    "availability": "Mon, Wed, Fri (4:00 PM - 8:00 PM)",
+    "rating": 4.88,
+    "reviewsCount": 195,
+    "image": "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?auto=format&fit=crop&w=600&q=80",
+    "about": "Senior Orthopaedic consultant with extensive practice in joint disorders, sports injury rehab, osteoarthritis management, spine care, and fracture treatments.",
+    "education": [
+      "MBBS - Coimbatore Medical College",
+      "MS (Orthopaedics) - Madras Medical College"
+    ],
+    "experience": [
+      "Orthopaedic Consultant - CareSphere Clinic Kanchipuram (2018 - Present)",
+      "Senior Specialist - MIOT International (2010 - 2018)"
+    ],
+    "services": [
+      "Knee & Hip Osteoarthritis Care",
+      "Back Pain & Cervical Spondylosis Management",
+      "Ligament Sprains & Sports Medicine",
+      "Joint Injections & Viscosupplementation"
+    ],
+    "faqs": [
+      {
+        "question": "Are physiotherapy sessions coordinated with doctor visits?",
+        "answer": "Yes, our on-site physiotherapy center coordinates directly with Dr. Subramanian for customized rehabilitation."
+      }
+    ]
+  },
+  {
+    "id": "dr-deepa-chandran",
+    "name": "Dr. Deepa Chandran",
+    "gender": "Female",
+    "specialty": "Gynaecology & Obstetrics",
+    "qualification": "MBBS, MS (OBG), FMAS",
+    "experienceYears": 13,
+    "languages": ["Tamil", "English", "Malayalam"],
+    "clinicId": "caresphere-kanchipuram-main",
+    "clinicName": "CareSphere Multispeciality Clinic, Kanchipuram",
+    "consultationFee": 450,
+    "consultationType": "Both",
+    "availability": "Mon - Fri (10:00 AM - 1:30 PM, 5:00 PM - 8:00 PM)",
+    "rating": 4.92,
+    "reviewsCount": 210,
+    "image": "https://images.unsplash.com/photo-1551601651-2a8555f1a136?auto=format&fit=crop&w=600&q=80",
+    "about": "Expert in women's wellness, prenatal counselling, PCOS management, adolescent menstrual health, and menopause care.",
+    "education": [
+      "MBBS - Government Kilpauk Medical College",
+      "MS (Obstetrics & Gynaecology) - Madras Medical College"
+    ],
+    "experience": [
+      "Consultant Gynaecologist - CareSphere Clinic (2020 - Present)",
+      "Consultant - Cloudnine Hospital (2015 - 2020)"
+    ],
+    "services": [
+      "Antenatal & Postnatal Care",
+      "PCOS & Irregular Periods Evaluation",
+      "Pap Smear & Cervical Screening",
+      "Menopause Symptom Relief",
+      "Contraceptive Guidance"
+    ],
+    "faqs": [
+      {
+        "question": "Can I do pelvic ultrasound scans during the visit?",
+        "answer": "Yes, high-resolution pelvic ultrasound scans are performed in our diagnostic wing."
+      }
+    ]
+  },
+  {
+    "id": "dr-suresh-balaji",
+    "name": "Dr. Suresh Balaji",
+    "gender": "Male",
+    "specialty": "Dermatology",
+    "qualification": "MBBS, MD (DVL)",
+    "experienceYears": 10,
+    "languages": ["Tamil", "English"],
+    "clinicId": "caresphere-kanchipuram-main",
+    "clinicName": "CareSphere Multispeciality Clinic, Kanchipuram",
+    "consultationFee": 450,
+    "consultationType": "Both",
+    "availability": "Mon, Wed, Fri (2:00 PM - 6:00 PM)",
+    "rating": 4.85,
+    "reviewsCount": 140,
+    "image": "https://images.unsplash.com/photo-1537368910025-700350fe46c7?auto=format&fit=crop&w=600&q=80",
+    "about": "Consultant Dermatologist and Venereologist focused on acne protocols, eczema, psoriasis, fungal skin infections, and hair fall therapies.",
+    "education": [
+      "MBBS - PSG Institute of Medical Sciences",
+      "MD (Dermatology, Venereology & Leprosy) - Madras Medical College"
+    ],
+    "experience": [
+      "Dermatologist - CareSphere Clinic Kanchipuram (2021 - Present)",
+      "Consultant - Apollo Spectra (2017 - 2021)"
+    ],
+    "services": [
+      "Acne & Scar Management",
+      "Eczema & Psoriasis Therapy",
+      "Fungal & Bacterial Skin Infection Care",
+      "Alopecia & Hair Loss Evaluation",
+      "Allergy Patch Testing"
+    ],
+    "faqs": [
+      {
+        "question": "Are chemical peels and skin procedures done at Kanchipuram clinic?",
+        "answer": "Yes, we have a sterile minor procedure suite for clinical dermatology procedures."
+      }
+    ]
+  },
+  {
+    "id": "dr-meenakshi-swaminathan",
+    "name": "Dr. Meenakshi Swaminathan",
+    "gender": "Female",
+    "specialty": "Endocrinology & Diabetology",
+    "qualification": "MBBS, MD (Medicine), C.Diab",
+    "experienceYears": 15,
+    "languages": ["Tamil", "English"],
+    "clinicId": "caresphere-kanchipuram-main",
+    "clinicName": "CareSphere Multispeciality Clinic, Kanchipuram",
+    "consultationFee": 500,
+    "consultationType": "Both",
+    "availability": "Tue, Thu, Sat (9:00 AM - 1:00 PM)",
+    "rating": 4.93,
+    "reviewsCount": 178,
+    "image": "https://images.unsplash.com/photo-1527613426441-4da17471b66d?auto=format&fit=crop&w=600&q=80",
+    "about": "Specialist in metabolic wellness, Type 1 & 2 diabetes management, thyroid dysfunctions (hypo/hyperthyroidism), and diabetic foot ulcer prevention.",
+    "education": [
+      "MBBS - Stanley Medical College",
+      "MD (General Medicine) - Madras Medical College",
+      "Post Graduate Diploma in Diabetology - MV Diabetes Hospital"
+    ],
+    "experience": [
+      "Chief Diabetologist - CareSphere Clinic (2019 - Present)",
+      "Diabetologist - Dr. Mohan's Diabetes Specialities Centre (2014 - 2019)"
+    ],
+    "services": [
+      "Comprehensive Diabetes Reversal & Control",
+      "Continuous Glucose Monitoring (CGM) Review",
+      "Thyroid Disorder Management",
+      "Diabetic Neuropathy & Foot Screenings"
+    ],
+    "faqs": [
+      {
+        "question": "Do you offer HbA1c testing on the same day?",
+        "answer": "Yes, our laboratory gives certified HbA1c results within 45 minutes."
+      }
+    ]
+  },
+  {
+    "id": "dr-arun-prakash",
+    "name": "Dr. Arun Prakash",
+    "gender": "Male",
+    "specialty": "ENT (Otolaryngology)",
+    "qualification": "MBBS, MS (ENT), DNB",
+    "experienceYears": 12,
+    "languages": ["Tamil", "English"],
+    "clinicId": "caresphere-kanchipuram-main",
+    "clinicName": "CareSphere Multispeciality Clinic, Kanchipuram",
+    "consultationFee": 400,
+    "consultationType": "In-clinic",
+    "availability": "Mon, Wed, Sat (3:00 PM - 7:00 PM)",
+    "rating": 4.86,
+    "reviewsCount": 125,
+    "image": "https://images.unsplash.com/photo-1582750433449-648ed127bb54?auto=format&fit=crop&w=600&q=80",
+    "about": "Consultant ENT surgeon with special interest in chronic sinusitis, allergic rhinitis, hearing loss assessments, vertigo, and throat disorders.",
+    "education": [
+      "MBBS - Madurai Medical College",
+      "MS (Otorhinolaryngology) - Madras Medical College"
+    ],
+    "experience": [
+      "Consultant ENT - CareSphere Clinic (2020 - Present)",
+      "Registrar - Madras ENT Research Foundation (2016 - 2020)"
+    ],
+    "services": [
+      "Diagnostic Nasal Endoscopy",
+      "Pure Tone Audiometry (Hearing Test)",
+      "Vertigo & Tinnitus Evaluation",
+      "Allergic Rhinitis & Sinus Care"
+    ],
+    "faqs": [
+      {
+        "question": "Do you provide ear wax microsuction at the clinic?",
+        "answer": "Yes, gentle video-assisted microsuction is routinely carried out in our ENT suite."
+      }
+    ]
+  }
+]

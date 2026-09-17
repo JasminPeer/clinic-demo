@@ -1,0 +1,410 @@
+[
+  {
+    "slug": "hiv",
+    "name": "Human Immunodeficiency Virus (HIV)",
+    "category": "Infectious Diseases",
+    "tagline": "Understanding HIV: Biology, Transmission, Testing, Prevention & Modern Care",
+    "summary": "HIV is a virus that targets the body's immune system, specifically CD4 T cells. With modern Antiretroviral Therapy (ART), people living with HIV lead long, healthy, and fulfilling lives.",
+    "whatIsIt": "Human Immunodeficiency Virus (HIV) is a retrovirus that infects cells of the human immune system, primarily CD4+ T helper lymphocytes. When left unmanaged, the gradual depletion of these cells weakens the immune defense. However, modern medical advances have transformed HIV into a manageable chronic health condition. With daily Antiretroviral Therapy (ART), the viral load can be suppressed to undetectable levels (Undetectable = Untransmittable or U=U), preventing disease progression and sexual transmission.",
+    "causes": "HIV is caused by infection with the human immunodeficiency virus (HIV-1 or HIV-2 strains). The virus replicates inside CD4 immune cells, slowly impairing the body's natural defense against other opportunistic infections.",
+    "howItSpreads": [
+      "Unprotected sexual contact with a partner who has a detectable viral load",
+      "Sharing unsterilized needles, syringes, or injection drug equipment",
+      "From parent to infant during pregnancy, childbirth, or breastfeeding (substantially prevented with maternal ART)",
+      "Unscreened blood transfusions (rare in modern certified blood banks)"
+    ],
+    "howItDoesNotSpread": [
+      "Casual contact: shaking hands, hugging, closed-mouth kissing, or high-fives",
+      "Sharing food, utensils, drinking glasses, or water bottles",
+      "Mosquito bites or other insect bites",
+      "Sharing toilets, swimming pools, gym equipment, or bath towels",
+      "Coughing, sneezing, saliva, sweat, or tears"
+    ],
+    "symptoms": [
+      "Early stage (2-4 weeks after exposure): Mild flu-like symptoms, fever, sore throat, swollen lymph glands, fatigue, rash",
+      "Clinical latency (asymptomatic stage): May cause no symptoms for years while the virus replicates slowly",
+      "Advanced stage (without ART): Recurrent fevers, persistent weight loss, prolonged diarrhea, chronic night sweats, frequent infections"
+    ],
+    "riskFactors": [
+      "Unprotected sexual intercourse without pre-exposure prophylaxis (PrEP)",
+      "Having an untreated sexually transmitted infection (STI) which causes mucosal inflammation",
+      "Sharing contaminated drug injection paraphernalia",
+      "Accidental needle-stick injuries in healthcare settings without post-exposure prophylaxis (PEP)"
+    ],
+    "testing": "Modern diagnostic tests are safe, confidential, and highly accurate: 4th generation Antigen/Antibody (Ag/Ab) blood tests, rapid point-of-care fingerstick tests, and HIV RNA viral load assays.",
+    "diagnosisOverview": "Diagnosis requires confirmed positive laboratory testing (ELISA/CLIA followed by confirmatory supplemental assay). A CD4 count and viral load baseline are then established.",
+    "prevention": [
+      "Pre-Exposure Prophylaxis (PrEP): Highly effective daily or long-acting medication taken by HIV-negative individuals to prevent acquiring HIV",
+      "Post-Exposure Prophylaxis (PEP): Emergency 28-day antiretroviral course started within 72 hours of potential exposure",
+      "Consistent condom usage during sexual encounters",
+      "Using sterile single-use needles and medical equipment",
+      "Regular confidential screening for individuals and couples"
+    ],
+    "treatmentOverview": "Antiretroviral Therapy (ART) consists of daily combinations of medications that block viral replication. When taken as prescribed, ART suppresses viral loads to undetectable levels, allowing the immune system to rebuild. Effective ART also eliminates sexual transmission risk (U=U: Undetectable = Untransmittable).",
+    "whenToSeekCare": "Seek immediate consultation if you have had a potential exposure within the last 72 hours to initiate emergency PEP. Routine confidential testing is recommended as part of comprehensive adult wellness.",
+    "mythsAndFacts": [
+      {
+        "myth": "HIV is a death sentence.",
+        "fact": "With prompt diagnosis and consistent daily ART, individuals with HIV have a life expectancy comparable to the general population."
+      },
+      {
+        "myth": "You can catch HIV from sharing cups or toilet seats.",
+        "fact": "HIV cannot survive long outside the human body and is not transmitted through saliva, sweat, surfaces, or casual contact."
+      },
+      {
+        "myth": "People with undetectable viral loads can transmit HIV.",
+        "fact": "Decades of global clinical trials prove that Undetectable equals Untransmittable (U=U)."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the difference between HIV and AIDS?",
+        "answer": "HIV is the virus itself. AIDS (Acquired Immunodeficiency Syndrome) is an advanced medical stage defined by severe CD4 cell loss or specific opportunistic illnesses. With modern treatment, the vast majority of people with HIV never develop AIDS."
+      },
+      {
+        "question": "Is HIV testing confidential at CareSphere?",
+        "answer": "Yes. All diagnostic screenings and physician consultations adhere strictly to patient confidentiality and professional medical privacy standards."
+      }
+    ],
+    "relatedSpecialists": ["General Medicine", "Infectious Diseases"],
+    "relatedTests": ["HIV 1 & 2 Antibody/Antigen Screen", "CD4 Count", "HIV Viral Load"],
+    "relatedArticles": ["Understanding Preventive Health Screenings", "Immune System Wellness"],
+    "lastReviewedDate": "February 2026",
+    "medicalDisclaimer": "This information is for general educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider regarding your health."
+  },
+  {
+    "slug": "aids",
+    "name": "Acquired Immunodeficiency Syndrome (AIDS)",
+    "category": "Infectious Diseases",
+    "tagline": "Clinical Stage Overview, Immune Preservation & Comprehensive Management",
+    "summary": "AIDS is the advanced clinical stage of untreated HIV infection, characterized by marked immune depletion. Early detection and modern ART prevent progression to this stage.",
+    "whatIsIt": "Acquired Immunodeficiency Syndrome (AIDS) is not a separate virus; it is the most advanced clinical stage of prolonged, untreated HIV infection. It is diagnosed when a person's CD4 T-cell count drops below 200 cells per cubic millimeter of blood (normal range is 500-1,500) or when an individual develops one or more specific opportunistic infections or cancers (such as Pneumocystis pneumonia, esophageal candidiasis, or Kaposi's sarcoma). Today, with early testing and widespread access to Antiretroviral Therapy (ART), progression to AIDS is preventable and reversible with prompt clinical intervention.",
+    "causes": "AIDS develops only as a consequence of long-standing, unmanaged HIV infection where the viral replication has systematically damaged the immune system over a span of several years.",
+    "howItSpreads": "AIDS itself does not spread from person to person. The underlying virus (HIV) is transmitted via blood, genital fluids, or parent-to-child during birth/breastfeeding. Stigma-free education emphasizes that touching, breathing the same air, or living with someone cannot transmit the virus.",
+    "howItDoesNotSpread": [
+      "Shaking hands, hugging, or social contact",
+      "Air, water, coughs, or sneezes",
+      "Insect or mosquito bites",
+      "Sharing utensils, towels, or bed linen"
+    ],
+    "symptoms": [
+      "Rapid, unexplained weight loss (wasting syndrome)",
+      "Recurring fever or profuse night sweats",
+      "Extreme and unexplained prolonged fatigue",
+      "Prolonged swelling of the lymph glands in the armpits, groin, or neck",
+      "Chronic diarrhea lasting for more than a week",
+      "Persistent sores in the mouth, anus, or genitals",
+      "Pneumonia and recurrent severe bacterial infections"
+    ],
+    "riskFactors": [
+      "Undiagnosed or untreated HIV infection over multiple years",
+      "Discontinuation or non-adherence to prescribed antiretroviral medications"
+    ],
+    "testing": "Testing includes CD4 lymphocyte enumeration, HIV RNA quantification, and targeted diagnostic cultures/imaging for opportunistic infections.",
+    "diagnosisOverview": "Clinical diagnosis criteria: Confirmed HIV positive status accompanied by a CD4 count < 200 cells/mm³ or presentation of a defined AIDS-defining illness.",
+    "prevention": [
+      "Early voluntary HIV testing and immediate initiation of ART upon diagnosis",
+      "Strict adherence to prescribed antiretroviral regimens",
+      "Prophylactic antimicrobial medications (e.g., Cotrimoxazole) for patients with low CD4 counts to prevent opportunistic infections"
+    ],
+    "treatmentOverview": "Treatment involves immediate ART initiation to suppress viral replication, combined with targeted therapies and antimicrobial prophylaxis for specific opportunistic conditions. Even at advanced stages, robust immune recovery is frequently achievable with consistent medical care.",
+    "whenToSeekCare": "Seek urgent medical attention if experiencing unexplained persistent fevers, rapid weight loss, chronic breathing difficulty, or neurological symptoms.",
+    "mythsAndFacts": [
+      {
+        "myth": "An HIV diagnosis means you have AIDS.",
+        "fact": "No. HIV is the virus. AIDS only occurs if HIV remains untreated for many years. Most people diagnosed early and treated never develop AIDS."
+      },
+      {
+        "myth": "Once you have an AIDS diagnosis, recovery is impossible.",
+        "fact": "With modern antiretroviral treatments and antimicrobial prophylaxis, CD4 counts can rebound above 200 and immune function can be substantially restored."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Can AIDS be prevented after HIV exposure?",
+        "answer": "Yes. Consistent daily adherence to antiretroviral therapy keeps HIV suppressed and completely prevents progression to AIDS."
+      }
+    ],
+    "relatedSpecialists": ["General Medicine", "Infectious Diseases", "Pulmonology"],
+    "relatedTests": ["CD4 Count", "HIV Viral Load", "Chest Digital X-Ray", "Sputum Culture"],
+    "relatedArticles": ["Nutrition in Chronic Illness Management", "Understanding Blood Tests"],
+    "lastReviewedDate": "February 2026",
+    "medicalDisclaimer": "This information is for general educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider regarding your health."
+  },
+  {
+    "slug": "dengue",
+    "name": "Dengue Fever",
+    "category": "Infectious Diseases",
+    "tagline": "Vector-Borne Viral Infection: Warning Signs, Hydration & Care",
+    "summary": "Dengue is a mosquito-borne viral illness common in tropical climates like Tamil Nadu. Key management focuses on hydration, temperature control, and platelet monitoring.",
+    "whatIsIt": "Dengue is a viral infection transmitted to humans through the bites of infected female Aedes mosquitoes (predominantly Aedes aegypti). The virus has four distinct serotypes (DENV 1-4). While most episodes cause a sudden high fever and intense body aches ('breakbone fever'), vigilance for plasma leakage and platelet drops during the critical phase is essential.",
+    "causes": "Infection with the Dengue virus transmitted through daytime-biting Aedes mosquitoes that breed in clean, stagnant water.",
+    "howItSpreads": ["Bite of an infected Aedes mosquito", "Not spread directly from person to person through casual contact"],
+    "howItDoesNotSpread": ["Airborne droplets, coughing, or touch", "Sharing food or water"],
+    "symptoms": [
+      "Sudden onset high fever (103°F - 105°F)",
+      "Severe retro-orbital (behind the eye) headache",
+      "Severe joint, bone, and muscle pains",
+      "Nausea, vomiting, and loss of appetite",
+      "Mild skin rash appearing 3-5 days after fever onset"
+    ],
+    "riskFactors": [
+      "Living in or traveling to tropical endemic areas during monsoon/post-monsoon seasons",
+      "Stagnant water containers in or around households",
+      "Secondary infection with a different dengue serotype increases risk of severe dengue"
+    ],
+    "testing": "Dengue NS1 Antigen (detectable in days 1-5), Dengue IgM/IgG antibody serology, Complete Blood Count (CBC) to track hematocrit and platelet counts.",
+    "diagnosisOverview": "Clinical assessment combined with rapid NS1 antigen and daily serial CBC monitoring.",
+    "prevention": [
+      "Eliminate stagnant water sources (flower pots, tyres, cooler trays)",
+      "Use mosquito repellents, window screens, and bed nets",
+      "Wear protective long-sleeved clothing during daytime hours"
+    ],
+    "treatmentOverview": "Supportive care is paramount: abundant oral rehydration salts (ORS), tender coconut water, adequate rest, and Paracetamol for fever. Avoid NSAIDs (such as Ibuprofen or Aspirin) as they may increase bleeding risks. Hospitalization is required if warning signs appear.",
+    "whenToSeekCare": "CRITICAL WARNING SIGNS: Severe abdominal pain, persistent vomiting, bleeding gums or nose, extreme lethargy/restlessness, or sudden breathlessness require immediate emergency hospitalization.",
+    "mythsAndFacts": [
+      {
+        "myth": "All dengue patients need platelet transfusions.",
+        "fact": "Platelet transfusions are indicated only when counts drop critically low or when there is active bleeding. Judicious fluid management is the primary cornerstone of dengue recovery."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Can I get dengue more than once?",
+        "answer": "Yes. There are four distinct viral serotypes. Recovery provides lifelong immunity against that specific serotype, but only temporary cross-protection against others."
+      }
+    ],
+    "relatedSpecialists": ["General Medicine", "Paediatrics"],
+    "relatedTests": ["Complete Blood Count (CBC)", "Dengue NS1 Antigen", "Dengue Serology IgM/IgG"],
+    "relatedArticles": ["Preventing Mosquito-Borne Diseases in Tamil Nadu", "The Role of Oral Hydration in Fevers"],
+    "lastReviewedDate": "February 2026",
+    "medicalDisclaimer": "This information is for general educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider regarding your health."
+  },
+  {
+    "slug": "malaria",
+    "name": "Malaria",
+    "category": "Infectious Diseases",
+    "tagline": "Parasitic Infection: Cyclical Chills, Blood Smear Diagnostics & Treatment",
+    "summary": "Malaria is a mosquito-borne illness caused by Plasmodium parasites, characterized by cyclical high fevers, rigors, and sweating.",
+    "whatIsIt": "Malaria is an acute febrile illness caused by Plasmodium parasites (commonly Plasmodium vivax and Plasmodium falciparum in India). It spreads through the bites of infected female Anopheles mosquitoes. After entering the bloodstream, parasites multiply within the liver and subsequently invade and rupture red blood cells.",
+    "causes": "Infection with Plasmodium parasites transmitted by night-biting Anopheles mosquitoes.",
+    "howItSpreads": ["Bite of infected Anopheles mosquito", "Rarely through unscreened blood transfusion or contaminated needles"],
+    "howItDoesNotSpread": ["Not contagious through casual contact, touch, or saliva"],
+    "symptoms": [
+      "Cyclical fever episodes with shaking chills (rigors)",
+      "High temperature followed by profuse sweating as fever breaks",
+      "Headache, muscle aches, and fatigue",
+      "Nausea, vomiting, and mild jaundice in severe cases"
+    ],
+    "riskFactors": ["Warm humid regions, outdoor sleeping without mosquito nets, unmanaged stagnant puddles"],
+    "testing": "Peripheral blood smear examination (thick and thin films for parasite identification) and Rapid Diagnostic Tests (RDT for Pf/Pv antigens).",
+    "diagnosisOverview": "Microscopic blood smear verification or antigen detection alongside clinical evaluation.",
+    "prevention": [
+      "Insecticide-treated bed nets and window screens",
+      "Eliminating vector breeding habitats",
+      "Chemoprophylaxis for high-risk travelers"
+    ],
+    "treatmentOverview": "Antimalarial medications prescribed based on the specific Plasmodium species and regional drug sensitivity (e.g., Artemisinin-based combination therapies or Chloroquine/Primaquine under physician supervision).",
+    "whenToSeekCare": "Immediate medical attention is required for recurring high fever with chills, or any signs of confusion, severe jaundice, or dark urine.",
+    "mythsAndFacts": [
+      {
+        "myth": "Malaria goes away on its own without medication.",
+        "fact": "Untreated malaria, especially P. falciparum, can progress to life-threatening cerebral complications or severe anemia."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Why does malaria require follow-up medication?",
+        "answer": "For P. vivax, a 14-day course of Primaquine is often prescribed under physician supervision to eradicate dormant liver hypnozoites and prevent relapse."
+      }
+    ],
+    "relatedSpecialists": ["General Medicine"],
+    "relatedTests": ["Peripheral Smear for Malarial Parasite", "Malaria Rapid Antigen Test", "Complete Blood Count"],
+    "relatedArticles": ["Monsoon Health Hazards & Protection"],
+    "lastReviewedDate": "February 2026",
+    "medicalDisclaimer": "This information is for general educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider regarding your health."
+  },
+  {
+    "slug": "typhoid",
+    "name": "Typhoid Fever",
+    "category": "Infectious Diseases",
+    "tagline": "Enteric Bacterial Infection: Step-Ladder Fever, Food Safety & Care",
+    "summary": "Typhoid is a bacterial infection caused by Salmonella Typhi, primarily transmitted through contaminated food or water.",
+    "whatIsIt": "Typhoid fever is an enteric bacterial infection caused by Salmonella enterica serotype Typhi. In endemic regions, it is predominantly spread through ingestion of food or drinking water contaminated with fecal matter from an infected person or carrier. It produces prolonged 'step-ladder' rising fever, abdominal discomfort, and systemic toxicity.",
+    "causes": "Ingestion of Salmonella Typhi bacteria through contaminated food, unboiled water, or poor hand hygiene.",
+    "howItSpreads": ["Fecal-oral route via contaminated food or water", "Direct transmission from asymptomatic chronic carriers with poor hand hygiene"],
+    "howItDoesNotSpread": ["Airborne droplets, coughing, or hugging"],
+    "symptoms": [
+      "Prolonged step-ladder fever that rises incrementally over several days",
+      "Headache, generalized weakness, and body ache",
+      "Abdominal pain, bloating, constipation (more common in adults) or diarrhea (in children)",
+      "Loss of appetite and coated tongue",
+      "Rose-colored spots on the chest or abdomen (in some cases)"
+    ],
+    "riskFactors": ["Drinking untreated municipal or well water, street food with questionable hygiene, lack of sanitation"],
+    "testing": "Blood Culture (gold standard during 1st week), Widal test (serology, interpreted cautiously), Stool culture, Complete Blood Count (often shows leukopenia).",
+    "diagnosisOverview": "Confirmed by isolating Salmonella Typhi from blood, bone marrow, or stool culture.",
+    "prevention": [
+      "Typhoid Conjugate Vaccine (TCV): Highly effective single-dose immunization available at CareSphere",
+      "Drinking boiled, filtered, or sealed bottled water",
+      "Eating thoroughly cooked hot foods and peeling fresh fruits",
+      "Rigorous handwashing with soap before eating and after toilet use"
+    ],
+    "treatmentOverview": "Appropriate antibiotic therapy guided by culture sensitivity tests, along with adequate fluid intake, light nourishing diet, and fever management.",
+    "whenToSeekCare": "Seek medical evaluation for fevers persisting beyond 3 days, especially accompanied by abdominal pain, severe headache, or gastrointestinal disturbances.",
+    "mythsAndFacts": [
+      {
+        "myth": "A single Widal test is always definitive proof of typhoid.",
+        "fact": "Widal tests can produce false positives due to prior infections or cross-reactions. Blood culture is the diagnostic standard."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Is there a vaccine for typhoid?",
+        "answer": "Yes, Typhoid Conjugate Vaccines (TCV) provide robust, long-lasting immunity for children and adults."
+      }
+    ],
+    "relatedSpecialists": ["General Medicine", "Paediatrics", "Gastroenterology"],
+    "relatedTests": ["Blood Culture & Sensitivity", "Complete Blood Count", "Widal Test", "Stool Culture"],
+    "relatedArticles": ["Safe Water & Food Practices", "Vaccinations for Adults and Children"],
+    "lastReviewedDate": "February 2026",
+    "medicalDisclaimer": "This information is for general educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider regarding your health."
+  },
+  {
+    "slug": "diabetes",
+    "name": "Type 2 Diabetes Mellitus",
+    "category": "Endocrine & Metabolic",
+    "tagline": "Metabolic Health: Glycemic Control, HbA1c & Organ Protection",
+    "summary": "Type 2 Diabetes is a chronic condition that impairs insulin sensitivity and glucose regulation. Proactive lifestyle modifications and medical management preserve long-term health.",
+    "whatIsIt": "Type 2 Diabetes Mellitus is a metabolic disorder characterized by persistent hyperglycemia (elevated blood glucose) resulting from insulin resistance combined with progressive beta-cell dysfunction in the pancreas. With thoughtful dietary habits, regular physical activity, and modern therapeutics, blood glucose can be safely controlled to prevent microvascular and macrovascular complications.",
+    "causes": "Combination of genetic susceptibility, abdominal adiposity, sedentary lifestyle, and impaired insulin receptor signaling.",
+    "symptoms": [
+      "Increased thirst (polydipsia) and dry mouth",
+      "Frequent urination (polyuria), especially at night",
+      "Increased hunger (polyphagia) despite eating",
+      "Unexplained fatigue and lethargy",
+      "Blurry vision and slow-healing cuts or sores",
+      "Tingling or numbness in the fingers or feet (neuropathy)"
+    ],
+    "riskFactors": [
+      "Family history of diabetes",
+      "Overweight or higher visceral abdominal fat",
+      "Sedentary lifestyle and lack of aerobic exercise",
+      "Age above 35 years or history of gestational diabetes",
+      "High blood pressure or dyslipidemia"
+    ],
+    "testing": "Fasting Plasma Glucose (FPG), Postprandial Glucose (PPBS), Glycated Hemoglobin (HbA1c), Urine Microalbumin.",
+    "diagnosisOverview": "Fasting blood sugar ≥ 126 mg/dL, 2-hour postprandial ≥ 200 mg/dL, or HbA1c ≥ 6.5% on two separate occasions.",
+    "prevention": [
+      "Balanced diet rich in fiber, whole grains, and lean proteins with minimal refined sugars",
+      "At least 150 minutes of moderate aerobic activity weekly",
+      "Weight management and avoidance of smoking",
+      "Annual preventive health checkups after age 30"
+    ],
+    "treatmentOverview": "Multifaceted approach including nutritional counselling, regular exercise, oral anti-diabetic medications (e.g., Metformin, SGLT2 inhibitors), and insulin therapy when indicated.",
+    "whenToSeekCare": "Consult a diabetologist for persistently elevated blood sugars, vision changes, foot sores that do not heal, or frequent urinary tract infections.",
+    "mythsAndFacts": [
+      {
+        "myth": "Eating sugar is the sole cause of diabetes.",
+        "fact": "Type 2 diabetes develops from a complex interplay of genetic predisposition, overall metabolic health, lifestyle, and insulin resistance."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is a healthy target HbA1c?",
+        "answer": "For most non-pregnant adults with diabetes, an HbA1c goal below 7.0% is recommended, though individual targets are personalized by your physician."
+      }
+    ],
+    "relatedSpecialists": ["Endocrinology & Diabetology", "General Medicine", "Cardiology"],
+    "relatedTests": ["HbA1c Test", "Fasting & Postprandial Blood Glucose", "Lipid Profile", "Urine Microalbumin"],
+    "relatedArticles": ["Practical Dietary Strategies for Diabetes Control", "Caring for Diabetic Feet"],
+    "lastReviewedDate": "February 2026",
+    "medicalDisclaimer": "This information is for general educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider regarding your health."
+  },
+  {
+    "slug": "asthma",
+    "name": "Bronchial Asthma",
+    "category": "Respiratory",
+    "tagline": "Airway Inflammation: Inhaler Technique, Triggers & Breathing Ease",
+    "summary": "Asthma is a chronic condition causing reversible airway inflammation, bronchospasm, and episodic wheezing.",
+    "whatIsIt": "Bronchial asthma is a chronic respiratory condition where the airways become inflamed, narrowed, and swollen, producing extra mucus. This leads to episodic breathing difficulties, chest tightness, wheezing, and coughing, often triggered by environmental allergens, cold air, or physical exertion.",
+    "causes": "Airway hyper-reactivity caused by a combination of genetic atopy and environmental triggers such as pollen, dust mites, vehicular pollution, smoke, and viral upper respiratory infections.",
+    "symptoms": [
+      "Wheezing (a musical whistling sound when exhaling)",
+      "Shortness of breath and difficulty catching breath",
+      "Chest tightness or pain",
+      "Chronic nighttime or early morning coughing"
+    ],
+    "riskFactors": ["Family history of asthma or eczema (atopy)", "Exposure to tobacco smoke, dust, industrial fumes, or frequent childhood respiratory infections"],
+    "testing": "Spirometry with bronchodilator reversibility testing, Peak Expiratory Flow Rate (PEFR) monitoring, and Chest X-Ray to exclude other causes.",
+    "diagnosisOverview": "Clinical history of episodic symptoms confirmed by documented reversible airflow limitation on spirometry.",
+    "prevention": [
+      "Identify and minimize exposure to known environmental triggers (dust, mold, pet dander)",
+      "Use protective dust masks in polluted or dusty conditions",
+      "Keep inhaler spacers clean and maintain annual influenza vaccines"
+    ],
+    "treatmentOverview": "Inhaled corticosteroids (controller inhalers) to reduce underlying inflammation, paired with short-acting beta-agonists (reliever inhalers) for acute symptom relief under medical supervision.",
+    "whenToSeekCare": "Seek emergency medical help if wheezing does not respond to reliever inhaler, speech is limited to single words due to breathlessness, or lips turn bluish.",
+    "mythsAndFacts": [
+      {
+        "myth": "Inhalers are habit-forming and should be used as a last resort.",
+        "fact": "Inhaled medications deliver micro-doses directly to the lungs with minimal systemic absorption, making them much safer and more effective than oral tablets."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Can people with asthma exercise safely?",
+        "answer": "Yes. Well-controlled asthma should not prevent regular sports or exercise. A preventive puff of reliever inhaler before exercise is often recommended."
+      }
+    ],
+    "relatedSpecialists": ["Pulmonology", "Paediatrics", "General Medicine"],
+    "relatedTests": ["Spirometry (PFT)", "Chest Digital X-Ray", "Complete Blood Count with Absolute Eosinophil Count"],
+    "relatedArticles": ["Mastering Inhaler Techniques", "Managing Seasonal Allergies"],
+    "lastReviewedDate": "February 2026",
+    "medicalDisclaimer": "This information is for general educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider regarding your health."
+  },
+  {
+    "slug": "hypertension",
+    "name": "High Blood Pressure (Hypertension)",
+    "category": "Cardiovascular",
+    "tagline": "The Silent Condition: Blood Pressure Monitoring, Diet & Heart Protection",
+    "summary": "Hypertension is a chronic elevation of systemic arterial blood pressure. Early detection prevents heart attacks, strokes, and kidney disease.",
+    "whatIsIt": "Hypertension is diagnosed when systemic blood pressure is consistently 140/90 mmHg or higher. Often called the 'silent killer' because it typically causes no overt symptoms in early stages, sustained high pressure gradually stiffens arteries and strains the heart muscle, kidneys, and brain.",
+    "causes": "Primary (essential) hypertension develops gradually from age, arterial stiffening, excess sodium, and stress. Secondary hypertension stems from underlying kidney disease, sleep apnea, or endocrine conditions.",
+    "symptoms": [
+      "Most commonly asymptomatic ('silent')",
+      "Occasional morning headaches or neck tightness",
+      "Dizziness or lightheadedness",
+      "Shortness of breath with moderate exertion",
+      "Nosebleeds (epistaxis) in very severe spikes"
+    ],
+    "riskFactors": ["High dietary sodium, obesity, lack of physical activity, chronic stress, tobacco and alcohol use, age > 40"],
+    "testing": "Serial blood pressure recordings, 24-hour Ambulatory Blood Pressure Monitoring (ABPM), 12-lead ECG, Lipid Profile, Kidney Function Test.",
+    "diagnosisOverview": "Confirmed by documented readings of ≥ 140/90 mmHg across at least two separate clinical visits.",
+    "prevention": [
+      "DASH (Dietary Approaches to Stop Hypertension) diet rich in vegetables, fruits, and potassium",
+      "Restricting dietary table salt to less than 5 grams per day",
+      "Regular brisk walking (30 minutes 5 days a week)",
+      "Smoking cessation and stress relaxation"
+    ],
+    "treatmentOverview": "Antihypertensive medications (e.g., ACE inhibitors, ARBs, Calcium Channel Blockers) prescribed according to cardiovascular risk, alongside lifestyle modifications.",
+    "whenToSeekCare": "A blood pressure spike > 180/120 mmHg accompanied by chest pain, shortness of breath, blurry vision, or numbness represents a hypertensive emergency requiring immediate hospital care.",
+    "mythsAndFacts": [
+      {
+        "myth": "I feel completely fine, so my blood pressure must be normal.",
+        "fact": "High blood pressure rarely causes symptoms until organ damage has already started. Routine measurement is the only reliable way to know."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Can I stop blood pressure medicines once readings normalize?",
+        "answer": "No. Blood pressure normalizes because the medicine is working. Any modification or reduction must be made under physician direction."
+      }
+    ],
+    "relatedSpecialists": ["Cardiology", "General Medicine"],
+    "relatedTests": ["12-Lead ECG", "2D Echocardiogram", "Kidney Function Test", "Lipid Profile"],
+    "relatedArticles": ["Dietary Sodium & Heart Health", "Understanding Your Blood Pressure Numbers"],
+    "lastReviewedDate": "February 2026",
+    "medicalDisclaimer": "This information is for general educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider regarding your health."
+  }
+]

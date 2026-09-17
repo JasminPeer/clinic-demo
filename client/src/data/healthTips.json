@@ -1,0 +1,110 @@
+[
+  {
+    "slug": "healthy-eating-balanced-nutrition",
+    "title": "Nutrition Fundamentals: Building a Balanced Plate in Daily Life",
+    "category": "Healthy Eating",
+    "readingTime": "5 min read",
+    "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?auto=format&fit=crop&w=1000&q=80",
+    "summary": "Practical dietary principles to balance macronutrients, support gut microbiome diversity, and avoid ultra-processed food traps without feeling deprived.",
+    "content": [
+      {
+        "heading": "The Three Pillars of Daily Nutrition",
+        "text": "Every nutritious meal centers on a simple formula: one half of your plate filled with colorful vegetables and salads, one quarter devoted to quality proteins (lentils, paneer, eggs, legumes, or fish), and one quarter whole complex carbohydrates (such as brown rice, millets, or whole wheat)."
+      },
+      {
+        "heading": "Fiber: The Unsung Guardian of Health",
+        "text": "Aim for at least 30 grams of dietary fiber daily. Fiber slows down glucose absorption, helping avoid post-meal spikes in blood sugar, while nourishing beneficial gut bacteria essential for immune resilience."
+      },
+      {
+        "heading": "Smart Hydration and Salt Moderation",
+        "text": "Limit sodium consumption to under 5 grams (one level teaspoon) daily from all sources. Replace commercial condiments with natural spices like turmeric, ginger, garlic, and fresh coriander."
+      }
+    ],
+    "relatedTopics": ["Gut Health", "Diabetes Management", "Heart Health"],
+    "author": "CareSphere Clinical Nutrition Team"
+  },
+  {
+    "slug": "sleep-hygiene-circadian-rhythm",
+    "title": "The Science of Restorative Sleep & Circadian Health",
+    "category": "Sleep",
+    "readingTime": "4 min read",
+    "image": "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?auto=format&fit=crop&w=1000&q=80",
+    "summary": "Why quality sleep is non-negotiable for cellular repair, immune vigor, and cognitive longevity, plus practical evening habits for better rest.",
+    "content": [
+      {
+        "heading": "The Restorative Power of Deep Sleep",
+        "text": "During deep slow-wave sleep, the glymphatic system actively flushes cellular metabolic debris from the brain while human growth hormone repairs muscle and tissue micro-tears."
+      },
+      {
+        "heading": "Screen Time & Blue Light",
+        "text": "Blue light emitted from smartphones and television screens directly halts melatonin production. Dim household lighting 60 minutes prior to bed and charge phones away from the bed."
+      },
+      {
+        "heading": "Consistency is Key",
+        "text": "Going to sleep and waking at identical times every single day—including weekends—anchors your internal biological master clock and prevents social jetlag."
+      }
+    ],
+    "relatedTopics": ["Stress Relief", "Brain Health", "Immunity"],
+    "author": "CareSphere Neuro-Wellness Desk"
+  },
+  {
+    "slug": "exercise-longevity-daily-movement",
+    "title": "Movement as Medicine: Aerobic & Resistance Training for Longevity",
+    "category": "Exercise",
+    "readingTime": "6 min read",
+    "image": "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?auto=format&fit=crop&w=1000&q=80",
+    "summary": "How combining 150 minutes of moderate aerobic activity with two weekly resistance sessions lowers cardiovascular mortality and preserves metabolic vitality.",
+    "content": [
+      {
+        "heading": "Cardiovascular Conditioning",
+        "text": "Brisk walking at a pace where you can talk but not sing provides excellent stimulus for cardiac output, endothelial function, and systemic capillary density."
+      },
+      {
+        "heading": "Preserving Muscle Mass (Sarcopenia Prevention)",
+        "text": "After age 30, adults naturally lose 3-8% of muscle mass per decade unless actively preserved through resistance exercises. Strong muscles are the body's primary metabolic sink for blood glucose disposal."
+      }
+    ],
+    "relatedTopics": ["Physiotherapy", "Weight Management", "Heart Health"],
+    "author": "CareSphere Physiotherapy & Sports Medicine"
+  },
+  {
+    "slug": "managing-chronic-stress-mind-body",
+    "title": "Taming Cortisol: Practical Strategies for Chronic Stress Relief",
+    "category": "Stress Management",
+    "readingTime": "5 min read",
+    "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=1000&q=80",
+    "summary": "Chronic mental stress drives persistent low-grade inflammation. Explore simple evidence-based breathwork and boundary habits that calm the sympathetic nervous system.",
+    "content": [
+      {
+        "heading": "The Physiological Cost of High Cortisol",
+        "text": "When the brain senses chronic psychosocial stress, cortisol and adrenaline remain elevated, elevating blood pressure, increasing visceral abdominal fat deposition, and suppressing immune responses."
+      },
+      {
+        "heading": "Box Breathing and the Vagus Nerve",
+        "text": "Inhale for 4 counts, hold for 4, exhale for 4, and hold for 4. Performing this simple cycle for 3 minutes stimulates the vagus nerve, rapidly lowering resting heart rate."
+      }
+    ],
+    "relatedTopics": ["Hypertension", "Mental Wellness", "Sleep"],
+    "author": "CareSphere Mind-Body Medicine"
+  },
+  {
+    "slug": "hydration-essentials-daily-health",
+    "title": "Proper Hydration: Why Water Intake Matters in Tropical Climates",
+    "category": "Hydration",
+    "readingTime": "4 min read",
+    "image": "https://images.unsplash.com/photo-1548839140-29a749e1bc4e?auto=format&fit=crop&w=1000&q=80",
+    "summary": "In warm humid conditions like Kanchipuram, subtle dehydration impacts cognitive focus, kidney filtration, and joint lubrication. Learn how to gauge hydration status.",
+    "content": [
+      {
+        "heading": "How Much Water Do You Actually Need?",
+        "text": "For active adults living in Tamil Nadu, 2.5 to 3.5 liters of total fluids daily is recommended, adjusted upward for outdoor physical activity and temperature."
+      },
+      {
+        "heading": "Urine Color: The Gold Standard Indicator",
+        "text": "Pale straw or light lemonade colored urine indicates adequate hydration. Dark amber urine signals that the kidneys are concentrating urine to conserve water, demanding immediate fluid replenishment."
+      }
+    ],
+    "relatedTopics": ["Kidney Health", "Fever Care", "Nutrition"],
+    "author": "CareSphere Preventive Health Wing"
+  }
+]

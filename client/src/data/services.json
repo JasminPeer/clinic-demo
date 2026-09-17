@@ -1,0 +1,162 @@
+[
+  {
+    "slug": "general-medicine",
+    "name": "General Medicine",
+    "icon": "Stethoscope",
+    "tagline": "Primary Care, Chronic Disease Management & Preventive Health",
+    "description": "Our General Medicine department is your primary gateway to comprehensive wellness. From acute infections and fever evaluations to continuous management of hypertension and diabetes.",
+    "commonConditions": ["Fever & Infections", "Hypertension", "Diabetes", "Fatigue", "Gastric Discomfort", "Respiratory Illnesses"],
+    "procedures": ["Annual Physical Exams", "Infectious Disease Screening", "Chronic Disease Monitoring", "Adult Immunizations"],
+    "doctorsCount": 6
+  },
+  {
+    "slug": "cardiology",
+    "name": "Cardiology",
+    "icon": "HeartPulse",
+    "tagline": "Preventive & Non-Invasive Heart Care",
+    "description": "Dedicated cardiac services focused on early detection, cardiovascular risk assessment, non-invasive imaging, and lifestyle intervention.",
+    "commonConditions": ["High Blood Pressure", "Chest Discomfort", "Palpitations", "High Cholesterol", "Heart Failure"],
+    "procedures": ["12-Lead ECG", "2D Echocardiography", "Treadmill Stress Test (TMT)", "24-Hour Holter Monitoring"],
+    "doctorsCount": 3
+  },
+  {
+    "slug": "paediatrics",
+    "name": "Paediatrics",
+    "icon": "Baby",
+    "tagline": "Compassionate Healthcare from Newborns to Adolescents",
+    "description": "Child-friendly medical consultations, immunization schedules, developmental milestone screenings, and pediatric illness treatments.",
+    "commonConditions": ["Childhood Fever & Flu", "Asthma & Wheezing", "Allergies", "Growth Issues", "Nutritional Deficiencies"],
+    "procedures": ["IAP Vaccinations", "Well-Baby Growth Tracking", "Developmental Assessments", "Nebulization Support"],
+    "doctorsCount": 4
+  },
+  {
+    "slug": "gynaecology",
+    "name": "Gynaecology & Obstetrics",
+    "icon": "Sparkles",
+    "tagline": "Holistic Healthcare Across Every Stage of Womanhood",
+    "description": "Specialized care for reproductive health, antenatal tracking, menstrual irregularities, fertility counselling, and menopausal wellness.",
+    "commonConditions": ["PCOS & PCOD", "Irregular Periods", "Pregnancy Care", "Fibroids & Endometriosis", "Pelvic Pain"],
+    "procedures": ["Antenatal Checkups", "Pap Smear & HPV Screening", "Pelvic Ultrasound", "Menopause Counselling"],
+    "doctorsCount": 4
+  },
+  {
+    "slug": "orthopaedics",
+    "name": "Orthopaedics",
+    "icon": "Bone",
+    "tagline": "Joint, Spine, Bone & Musculoskeletal Rehabilitation",
+    "description": "Advanced care for degenerative joint conditions, back pain, fracture care, tendon injuries, and geriatric mobility restoration.",
+    "commonConditions": ["Osteoarthritis", "Cervical & Lumbar Spondylosis", "Frozen Shoulder", "Ligament Tears", "Osteoporosis"],
+    "procedures": ["Digital Joint X-Ray", "Intra-Articular Joint Injections", "Plaster & Splinting", "Physiotherapy Alignment"],
+    "doctorsCount": 3
+  },
+  {
+    "slug": "dermatology",
+    "name": "Dermatology",
+    "icon": "Sun",
+    "tagline": "Clinical Skin, Hair, Nail & Allergy Solutions",
+    "description": "Expert diagnosis and gentle therapeutic protocols for inflammatory dermatoses, acute and chronic infections, and hair fall disorders.",
+    "commonConditions": ["Acne & Acne Scars", "Eczema & Dermatitis", "Psoriasis", "Fungal Infections", "Alopecia (Hair Loss)"],
+    "procedures": ["Skin Biopsy", "Chemical Peels", "Comedone Extraction", "Radiofrequency Lesion Removal"],
+    "doctorsCount": 3
+  },
+  {
+    "slug": "ent",
+    "name": "ENT (Otolaryngology)",
+    "icon": "Ear",
+    "tagline": "Ear, Nose, Throat & Balance Specialists",
+    "description": "Outpatient diagnostic endoscopy, sinus relief, allergy treatments, and hearing assessments for adults and children.",
+    "commonConditions": ["Chronic Sinusitis", "Allergic Rhinitis", "Ear Infections", "Tonsillitis", "Vertigo & Balance Issues"],
+    "procedures": ["Diagnostic Nasal Endoscopy", "Audiometry Screening", "Ear Microsuction", "Foreign Body Removal"],
+    "doctorsCount": 2
+  },
+  {
+    "slug": "endocrinology",
+    "name": "Endocrinology & Diabetology",
+    "icon": "Activity",
+    "tagline": "Metabolic Wellness, Diabetes & Hormone Balance",
+    "description": "Precision metabolic management addressing endocrine dysfunctions, thyroid diseases, obesity, and diabetes prevention.",
+    "commonConditions": ["Type 1 & Type 2 Diabetes", "Hypothyroidism", "Hyperthyroidism", "Adrenal & Pituitary Issues", "Obesity"],
+    "procedures": ["HbA1c Profiling", "Thyroid Fine Needle Aspiration", "Continuous Glucose Monitoring (CGM)", "Diabetic Foot Exam"],
+    "doctorsCount": 2
+  },
+  {
+    "slug": "neurology",
+    "name": "Neurology",
+    "icon": "Brain",
+    "tagline": "Nervous System & Cognitive Care",
+    "description": "Evaluation and supportive therapies for headaches, seizure disorders, stroke prevention, and peripheral neuropathies.",
+    "commonConditions": ["Migraines & Headaches", "Epilepsy", "Neuropathy & Numbness", "Tremors & Parkinsonism", "Memory Loss"],
+    "procedures": ["Neurological Clinical Workup", "Cognitive Screenings", "Nerve Conduction Correlation"],
+    "doctorsCount": 2
+  },
+  {
+    "slug": "gastroenterology",
+    "name": "Gastroenterology",
+    "icon": "Utensils",
+    "tagline": "Digestive Health & Liver Care",
+    "description": "Targeted therapies for acid peptic disease, liver health, bowel habit alterations, and nutritional absorption disorders.",
+    "commonConditions": ["GERD & Acid Reflux", "Gastritis", "Fatty Liver", "Irritable Bowel Syndrome (IBS)", "Gallstones"],
+    "procedures": ["Abdominal Ultrasound", "Liver Function Analysis", "Dietary Gastric Protocols"],
+    "doctorsCount": 2
+  },
+  {
+    "slug": "pulmonology",
+    "name": "Pulmonology",
+    "icon": "Wind",
+    "tagline": "Respiratory & Lung Health",
+    "description": "Comprehensive diagnostic and therapeutic solutions for chronic wheezing, smoking cessation, COPD, and post-viral lung recovery.",
+    "commonConditions": ["Asthma", "Chronic Bronchitis & COPD", "Pneumonia", "Allergic Cough", "Sleep Apnea"],
+    "procedures": ["Spirometry (Lung Function Test)", "Pulse Oximetry", "Chest Digital X-Ray", "Nebulizer Therapy"],
+    "doctorsCount": 2
+  },
+  {
+    "slug": "urology",
+    "name": "Urology & Nephrology Support",
+    "icon": "ShieldAlert",
+    "tagline": "Urinary Tract & Kidney Wellness",
+    "description": "Diagnostic workup for recurrent urinary infections, kidney stone evaluations, and benign prostatic hyperplasia in men.",
+    "commonConditions": ["Urinary Tract Infection (UTI)", "Kidney Stones", "Prostate Enlargement (BPH)", "Hematuria"],
+    "procedures": ["KUB Ultrasound", "Uroflowmetry Support", "Urine Culture Diagnostics"],
+    "doctorsCount": 2
+  },
+  {
+    "slug": "ophthalmology",
+    "name": "Ophthalmology & Vision Care",
+    "icon": "Eye",
+    "tagline": "Comprehensive Eye Screenings & Vision Health",
+    "description": "Routine refraction, diabetic retinopathy screenings, dry eye relief, and cataract evaluations.",
+    "commonConditions": ["Refractive Errors", "Computer Vision Syndrome", "Dry Eyes", "Cataract", "Diabetic Eye Changes"],
+    "procedures": ["Digital Vision Testing", "Slit Lamp Examination", "Fundus Examination", "Non-Contact Tonometry"],
+    "doctorsCount": 2
+  },
+  {
+    "slug": "dentistry",
+    "name": "Dentistry & Oral Care",
+    "icon": "Smile",
+    "tagline": "Preventive Oral Hygiene & Dental Health",
+    "description": "Gentle dental checkups, ultrasonic scaling, cavities prevention, and restorative treatments.",
+    "commonConditions": ["Tooth Decay", "Gingivitis & Gum Bleeding", "Tooth Sensitivity", "Impacted Teeth"],
+    "procedures": ["Ultrasonic Teeth Cleaning", "Dental Fillings", "Root Canal Consultation", "Oral Health Screening"],
+    "doctorsCount": 2
+  },
+  {
+    "slug": "physiotherapy",
+    "name": "Physiotherapy & Rehabilitation",
+    "icon": "Footprints",
+    "tagline": "Physical Therapy, Pain Management & Mobility",
+    "description": "Hands-on physical therapy protocols, ergonomic counselling, electrotherapy, and exercise plans for back, neck, and joint recovery.",
+    "commonConditions": ["Chronic Lower Back Pain", "Cervical Neck Stiffness", "Knee Rehabilitation", "Post-Surgical Weakness"],
+    "procedures": ["IFT & TENS Therapy", "Ultrasound Therapy", "Therapeutic Exercise Programs", "Posture Retraining"],
+    "doctorsCount": 3
+  },
+  {
+    "slug": "nutrition-dietetics",
+    "name": "Nutrition & Dietetics",
+    "icon": "Apple",
+    "tagline": "Clinical Nutrition & Evidence-Based Diet Counselling",
+    "description": "Personalized nutrition plans for diabetes, cardiac health, weight management, and maternal wellness.",
+    "commonConditions": ["Metabolic Syndrome", "Clinical Weight Management", "Gestational Diabetes", "PCOS Diet"],
+    "procedures": ["Body Composition Analysis (BCA)", "Personalized Diet Charting", "Nutrient Deficiency Assessment"],
+    "doctorsCount": 2
+  }
+]

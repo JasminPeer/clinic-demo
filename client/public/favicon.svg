@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <linearGradient id="careGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D5C75"/>
+      <stop offset="100%" stop-color="#0891B2"/>
+    </linearGradient>
+    <linearGradient id="pulseGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#10B981"/>
+      <stop offset="100%" stop-color="#38BDF8"/>
+    </linearGradient>
+  </defs>
+  <!-- Outer healthcare sphere ring -->
+  <circle cx="32" cy="32" r="30" stroke="url(#careGrad)" stroke-width="4" fill="#F0F9FA"/>
+  
+  <!-- Subtle medical cross backdrop -->
+  <rect x="27" y="14" width="10" height="36" rx="5" fill="url(#careGrad)"/>
+  <rect x="14" y="27" width="36" height="10" rx="5" fill="url(#careGrad)"/>
+
+  <!-- Pulse / Heartbeat line overlay -->
+  <path d="M12 32 H24 L28 20 L33 44 L37 26 L41 35 L44 32 H52" 
+        stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

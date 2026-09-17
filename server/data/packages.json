@@ -1,0 +1,140 @@
+[
+  {
+    "slug": "basic-health-check",
+    "title": "Essential Basic Health Check",
+    "tagline": "Fundamental Annual Wellness Baseline",
+    "description": "A baseline diagnostic profile designed for young adults to track essential organ functions, blood counts, and metabolic baseline.",
+    "idealFor": "Young adults aged 18 - 35 seeking an annual routine health checkup.",
+    "testCount": 28,
+    "testsIncluded": [
+      "Complete Blood Count (CBC - 18 parameters)",
+      "Fasting Blood Glucose",
+      "Lipid Profile (Total Cholesterol, HDL, LDL, Triglycerides)",
+      "Kidney Function Screen (Serum Creatinine, Blood Urea)",
+      "Liver Screen (SGPT, Bilirubin)",
+      "Urine Routine & Microscopy",
+      "Physician Clinical Consultation & BMI Assessment"
+    ],
+    "preparation": "10-12 hours overnight fasting (water allowed).",
+    "demoPrice": "₹999",
+    "originalPrice": "₹1,800",
+    "discountPercentage": "44%",
+    "popular": false
+  },
+  {
+    "slug": "heart-health-check",
+    "title": "Advanced Heart Health Check",
+    "tagline": "Comprehensive Cardiovascular Risk Profiling",
+    "description": "Cardiovascular risk screening combining blood lipid biochemistry, non-invasive electrical tracing, and cardiologist consultation.",
+    "idealFor": "Individuals with family history of heart disease, elevated BP, high stress, or age 35+.",
+    "testCount": 42,
+    "testsIncluded": [
+      "12-Lead Resting ECG",
+      "High-Sensitivity C-Reactive Protein (hs-CRP)",
+      "Complete Extended Lipid Profile with Ratios",
+      "Fasting Blood Sugar & HbA1c",
+      "Kidney Function Test with Electrolytes",
+      "Complete Blood Count",
+      "Urine Microalbumin",
+      "Senior Cardiologist Comprehensive Consultation"
+    ],
+    "preparation": "12 hours overnight fasting. Bring past cardiac records if available.",
+    "demoPrice": "₹2,499",
+    "originalPrice": "₹4,200",
+    "discountPercentage": "40%",
+    "popular": true
+  },
+  {
+    "slug": "womens-health-check",
+    "title": "CareSphere Women's Wellness Package",
+    "tagline": "Comprehensive Screening Tailored for Women",
+    "description": "Tailored hormonal, bone health, reproductive, and nutritional assessment designed specifically for women across all stages.",
+    "idealFor": "Women of reproductive and menopausal age seeking comprehensive preventative screening.",
+    "testCount": 38,
+    "testsIncluded": [
+      "Thyroid Profile Total (T3, T4, TSH)",
+      "Vitamin D (25-OH) & Vitamin B12",
+      "Complete Blood Count with Serum Ferritin & Iron (Anemia Profile)",
+      "Pelvic Ultrasound (USG) Scan",
+      "Fasting Blood Glucose & HbA1c",
+      "Lipid Profile & Liver Function",
+      "Urine Routine & Microscopy",
+      "Consultant Gynaecologist Clinical Assessment"
+    ],
+    "preparation": "10 hours fasting. Full urinary bladder required for pelvic ultrasound.",
+    "demoPrice": "₹2,799",
+    "originalPrice": "₹4,800",
+    "discountPercentage": "42%",
+    "popular": true
+  },
+  {
+    "slug": "senior-health-check",
+    "title": "CareSphere Senior Citizen Comprehensive Care",
+    "tagline": "Holistic Preventive & Chronic Health Screening for Elders",
+    "description": "Comprehensive panel addressing joint vitality, cardiac health, kidney filtration, bone density markers, and metabolic balance.",
+    "idealFor": "Senior citizens aged 60+ for annual or semi-annual health monitoring.",
+    "testCount": 54,
+    "testsIncluded": [
+      "12-Lead ECG & Chest Digital X-Ray",
+      "Whole Abdomen & Pelvis Ultrasound",
+      "Kidney Function Test with eGFR & Serum Electrolytes",
+      "Liver Function Test & Serum Proteins",
+      "Extended Lipid Profile",
+      "HbA1c & Fasting Glucose",
+      "Vitamin D, Vitamin B12, Serum Calcium & Uric Acid",
+      "Complete Blood Count with ESR",
+      "Consultant Geriatric / Senior Physician Consultation"
+    ],
+    "preparation": "Overnight fasting for 10-12 hours. Morning medications may be delayed upon doctor's advice.",
+    "demoPrice": "₹3,499",
+    "originalPrice": "₹6,000",
+    "discountPercentage": "42%",
+    "popular": false
+  },
+  {
+    "slug": "diabetes-screening",
+    "title": "CareSphere Diabetes & Metabolic Care Package",
+    "tagline": "Targeted Glycemic Control & End-Organ Protection",
+    "description": "Specialized assessment designed for individuals diagnosed with diabetes or prediabetes to prevent microvascular and kidney complications.",
+    "testCount": 32,
+    "idealFor": "Persons with pre-diabetes, diagnosed diabetes, or metabolic syndrome.",
+    "testsIncluded": [
+      "Glycated Hemoglobin (HbA1c)",
+      "Fasting & 2-Hour Postprandial Blood Glucose",
+      "Complete Lipid Profile",
+      "Serum Creatinine & eGFR",
+      "Urine Microalbumin/Creatinine Ratio",
+      "Diabetic Foot Neuropathy Examination (Biothesiometry)",
+      "Diabetologist / Consultant Physician Consultation"
+    ],
+    "preparation": "Fasting sample first, followed by breakfast with medication and post-prandial sample 2 hours later.",
+    "demoPrice": "₹1,499",
+    "originalPrice": "₹2,600",
+    "discountPercentage": "42%",
+    "popular": true
+  },
+  {
+    "slug": "complete-health-screening",
+    "title": "CareSphere Platinum Master Health Check",
+    "tagline": "The Ultimate Whole-Body Preventive Screening",
+    "description": "Our most exhaustive master checkup covering all vital organ systems, cardiac imaging, ultrasound sonography, cancer markers, and dual specialist consultations.",
+    "testCount": 68,
+    "idealFor": "Adults seeking an in-depth annual evaluation of all major physiological organ systems.",
+    "testsIncluded": [
+      "Whole Abdomen & Pelvis Sonography (USG)",
+      "Digital Chest X-Ray & 12-Lead ECG",
+      "Comprehensive Cardiac Risk & Lipid Profile",
+      "Liver & Kidney Extended Panels",
+      "Thyroid Profile (T3, T4, TSH)",
+      "HbA1c & Complete Diabetes Markers",
+      "Vitamin D & B12 Levels",
+      "Complete Hemogram & Peripheral Smear",
+      "Physician & Dietetics Double Consultation"
+    ],
+    "preparation": "12 hours overnight fasting. Wear comfortable two-piece clothing.",
+    "demoPrice": "₹4,999",
+    "originalPrice": "₹8,500",
+    "discountPercentage": "41%",
+    "popular": false
+  }
+]

@@ -1,0 +1,299 @@
+[
+  {
+    "slug": "fever",
+    "name": "Fever (Pyrexia)",
+    "category": "General & Systemic",
+    "icon": "Thermometer",
+    "tagline": "Understanding Body Temperature, Safe Monitoring, Hydration & Red Flags",
+    "summary": "Fever is the body's natural physiological defense mechanism against infections. Proper hydration, monitoring, and recognizing red flags ensure patient safety.",
+    "whatIsIt": "A fever is a temporary elevation in normal body temperature, typically defined as an oral temperature above 100.4°F (38.0°C). It is orchestrated by the hypothalamus in response to pyrogens released during an immune response against viruses, bacteria, or inflammation. Fever itself is not a standalone disease, but a valuable clinical sign that the immune system is actively working.",
+    "commonCauses": [
+      "Viral infections (such as Common Cold, Influenza, Dengue, COVID-19, Chickenpox)",
+      "Bacterial infections (such as Typhoid, Urinary Tract Infections, Streptococcal pharyngitis, Pneumonia)",
+      "Vector-borne infections (Malaria, Scrub Typhus)",
+      "Post-immunization temporary immune response",
+      "Inflammatory or autoimmune conditions",
+      "Heat exhaustion or excessive sun exposure"
+    ],
+    "associatedSymptoms": [
+      "Chills, shivering, and goosebumps",
+      "Sweating as temperature fluctuates",
+      "Headache and dull generalized muscle aches",
+      "Loss of appetite and dry mouth",
+      "Mild weakness and lethargy"
+    ],
+    "temperatureMonitoring": [
+      "Use a calibrated digital thermometer placed sublingually (under tongue) or axillary (under armpit).",
+      "Record temperature readings twice daily or whenever the person feels distinctly hot or shivering.",
+      "Avoid checking immediately after hot beverages, baths, or intense physical exertion.",
+      "Normal adult temperature range is typically 97.8°F to 99.0°F (36.5°C - 37.2°C)."
+    ],
+    "homeCareAndHydration": [
+      "Oral Hydration: Drink plenty of clean boiled water, Oral Rehydration Salts (ORS), tender coconut water, diluted broths, and fresh lime juice.",
+      "Rest: Adequate physical rest allows the body to redirect metabolic energy toward immune defense.",
+      "Comfort: Dress in light, breathable cotton clothing and maintain a well-ventilated room with gentle fan circulation.",
+      "Tepid Sponging: For very high temperatures, gentle sponging with lukewarm water on the forehead, neck, and extremities can provide comfort. Never use ice or cold water."
+    ],
+    "whenToContactDoctor": [
+      "Fever persisting for more than 48 to 72 hours without reduction",
+      "Temperature rising above 103°F (39.4°C) in adults or > 101°F in infants under 6 months",
+      "Fever returning after disappearing for several days",
+      "Presence of burning sensation during urination or persistent cough"
+    ],
+    "emergencyWarningSigns": [
+      "Difficulty breathing, rapid chest movements, or wheezing",
+      "Severe intractable headache or neck stiffness with confusion",
+      "Persistent continuous vomiting or inability to keep any fluids down",
+      "New unexplained rash, dark petechial spots, or bleeding from gums/nose",
+      "Extreme lethargy, difficulty waking up, or unresponsiveness"
+    ],
+    "safetyDisclaimer": "CareSphere provides this content strictly for educational orientation. We do not prescribe dosages or recommend self-medication. Always consult a qualified medical professional for personal diagnosis and targeted therapy.",
+    "faqs": [
+      {
+        "question": "Should every fever be brought down immediately to 98.4°F?",
+        "answer": "Not necessarily. Mild fevers assist immune cells in combating pathogens. The goal of fever management is to keep the patient comfortable and well-hydrated rather than eliminating the body's natural defense."
+      },
+      {
+        "question": "When should an infant with fever be seen by a doctor?",
+        "answer": "Any baby under 3 months of age with a rectal temperature of 100.4°F (38°C) or higher should be evaluated by a pediatrician immediately."
+      }
+    ],
+    "relatedSpecialists": ["General Medicine", "Paediatrics"],
+    "relatedTests": ["Complete Blood Count (CBC)", "Dengue NS1 Antigen", "Peripheral Smear for Malaria", "Urine Routine Examination"],
+    "relatedDiseases": ["dengue", "malaria", "typhoid"]
+  },
+  {
+    "slug": "cough",
+    "name": "Cough",
+    "category": "Respiratory",
+    "icon": "Wind",
+    "tagline": "Protective Reflex: Acute vs Chronic Causes, Self-Care & Warning Signs",
+    "summary": "A cough is a vital protective reflex that clears the airways of irritants, mucus, and foreign matter. Understanding the duration and characteristics helps clinicians determine the underlying cause.",
+    "whatIsIt": "Coughing is an involuntary and voluntary respiratory defense reflex that rapidly expels air from the lungs to clear foreign particles, microbes, and accumulated bronchial secretions. An acute cough lasts under 3 weeks; a persistent cough extends beyond 8 weeks and warrants structured diagnostic workup.",
+    "commonCauses": [
+      "Viral upper respiratory tract infections (Common Cold, Flu)",
+      "Allergic rhinitis and post-nasal drip",
+      "Bronchial Asthma and airway hyper-reactivity",
+      "Gastroesophageal Reflux Disease (GERD / acid reflux)",
+      "Bacterial bronchitis or pneumonia",
+      "Environmental irritants (tobacco smoke, vehicle exhaust, dust)",
+      "Certain medications (such as ACE inhibitors for blood pressure)"
+    ],
+    "associatedSymptoms": [
+      "Sore or scratchy throat",
+      "Nasal congestion or runny nose",
+      "Phlegm or sputum production (productive vs dry cough)",
+      "Mild chest muscular soreness from repeated coughing fits"
+    ],
+    "homeCareAndHydration": [
+      "Steam inhalation once or twice daily to loosen thick airway secretions",
+      "Warm fluids such as honey in warm water (for adults and children over 1 year) and herbal broths",
+      "Avoid exposure to active and passive cigarette smoke, incense, and pungent aerosols",
+      "Elevate head slightly during sleep to reduce nighttime post-nasal drip"
+    ],
+    "whenToContactDoctor": [
+      "Cough lasting longer than 2 to 3 weeks without improvement",
+      "Cough accompanied by thick yellow/green phlegm or high fever",
+      "Unexplained night sweats and progressive weight loss"
+    ],
+    "emergencyWarningSigns": [
+      "Coughing up blood (hemoptysis)",
+      "Severe shortness of breath, audible stridor, or chest tightness",
+      "Inability to speak in full sentences"
+    ],
+    "safetyDisclaimer": "Educational guidance only. Specific prescription expectorants or suppressants should only be taken under direct medical advice.",
+    "faqs": [
+      {
+        "question": "Why does my cough get worse at night?",
+        "answer": "Lying flat allows mucus from the nasal passages to pool in the back of the throat (post-nasal drip) and increases acid reflux irritation, stimulating the cough reflex."
+      }
+    ],
+    "relatedSpecialists": ["Pulmonology", "ENT", "General Medicine"],
+    "relatedTests": ["Chest Digital X-Ray", "Spirometry", "Complete Blood Count", "Sputum Culture"],
+    "relatedDiseases": ["asthma"]
+  },
+  {
+    "slug": "chest-pain",
+    "name": "Chest Pain / Discomfort",
+    "category": "Cardiovascular & Respiratory",
+    "icon": "HeartPulse",
+    "tagline": "Crucial Symptom: Cardiac vs Non-Cardiac Causes & Emergency Action",
+    "summary": "Chest pain requires prompt clinical evaluation. Distinguishing potential cardiac emergencies from musculoskeletal or gastric causes is a top medical priority.",
+    "whatIsIt": "Chest pain encompasses any ache, pressure, tightness, squeezing, or burning sensation felt in the chest cavity, extending from the neck to the upper abdomen. While many episodes stem from benign causes like acid reflux or muscular strain, any unexplained chest discomfort must be evaluated urgently to exclude acute coronary syndrome (heart attack).",
+    "commonCauses": [
+      "Cardiac: Angina, Acute Coronary Syndrome, Pericarditis",
+      "Gastrointestinal: Severe acid reflux (GERD), esophageal spasm, gastritis",
+      "Musculoskeletal: Costochondritis (inflammation of rib cartilage), intercostal muscle strain",
+      "Respiratory: Pleurisy, pulmonary embolism, severe bronchitis",
+      "Psychological: Panic attack or acute hyperventilation"
+    ],
+    "associatedSymptoms": [
+      "Radiation of discomfort to the left arm, jaw, neck, or back",
+      "Cold sweats, dizziness, and lightheadedness",
+      "Shortness of breath and nausea",
+      "Worsening with deep inspiration or body twisting (often musculoskeletal)"
+    ],
+    "whenToContactDoctor": [
+      "Any new, recurrent, or exertional chest discomfort requires prompt physician consultation."
+    ],
+    "emergencyWarningSigns": [
+      "CRITICAL: Heavy pressure, crushing tightness, or burning in center of chest lasting more than 5 minutes",
+      "Pain radiating to left shoulder, arm, throat, or jaw accompanied by cold sweats or nausea",
+      "Sudden severe breathlessness, fainting, or irregular rapid heartbeat — CALL 108 OR PROCEED TO EMERGENCY CASUALTY IMMEDIATELY."
+    ],
+    "safetyDisclaimer": "Do not wait or attempt self-treatment for acute central chest pain. Call emergency medical services immediately.",
+    "faqs": [
+      {
+        "question": "Can gas or acidity feel like a heart attack?",
+        "answer": "Yes. Severe esophageal spasms and gastric reflux can mimic cardiac pain closely. Because they feel similar, doctors prioritize ruling out the heart first using an ECG and troponin test."
+      }
+    ],
+    "relatedSpecialists": ["Cardiology", "General Medicine"],
+    "relatedTests": ["12-Lead ECG", "Troponin I/T Cardiac Markers", "2D Echocardiogram", "Chest Digital X-Ray"],
+    "relatedDiseases": ["hypertension"]
+  },
+  {
+    "slug": "headache",
+    "name": "Headache",
+    "category": "Neurological",
+    "icon": "Brain",
+    "tagline": "Tension, Migraine, Sinus & Red Flag Warning Symptoms",
+    "summary": "Headaches are one of the most common physical discomforts. Identifying whether it is a primary headache (like tension or migraine) or secondary to another condition guides appropriate relief.",
+    "whatIsIt": "A headache is pain or discomfort in the head, scalp, or upper neck. Primary headaches account for over 90% of cases, while secondary headaches occur as a symptom of an underlying medical issue such as sinus congestion, dental problems, or hypertension.",
+    "commonCauses": [
+      "Tension headaches (stress, prolonged screen time, neck muscle tightness)",
+      "Migraines (throbbing unilateral pain often with light/sound sensitivity)",
+      "Sinus headaches (facial pressure, nasal congestion, seasonal allergies)",
+      "Dehydration and skipped meals",
+      "Lack of restorative sleep or caffeine withdrawal",
+      "Elevated systemic blood pressure"
+    ],
+    "associatedSymptoms": [
+      "Throbbing or pulsing sensation",
+      "Sensitivity to bright light (photophobia) and loud noises (phonophobia)",
+      "Nausea or visual auras (sparkles or zigzag lines before migraine)",
+      "Stiffness in the shoulder and neck muscles"
+    ],
+    "homeCareAndHydration": [
+      "Rest in a quiet, dark room with gentle cool forehead compress",
+      "Ensure adequate hydration with water or electrolyte fluids",
+      "Practice screen breaks (the 20-20-20 rule) during desk work",
+      "Gentle neck and shoulder stretching exercises"
+    ],
+    "whenToContactDoctor": [
+      "Headaches recurring several times per week",
+      "Headaches that wake you from sleep",
+      "Progressive worsening over weeks or requiring frequent pain tablets"
+    ],
+    "emergencyWarningSigns": [
+      "Sudden, explosive 'thunderclap' headache reaching peak intensity in seconds",
+      "Headache accompanied by high fever, stiff neck, and confusion",
+      "Headache with neurological deficits: slurred speech, facial droop, or limb weakness",
+      "Headache following recent head trauma or injury"
+    ],
+    "safetyDisclaimer": "Educational summary only. Consult a doctor for diagnostic confirmation and migraine prophylactic plans.",
+    "faqs": [
+      {
+        "question": "Can eye strain cause chronic headaches?",
+        "answer": "Yes. Uncorrected refractive errors or prolonged digital screen glare frequently trigger fronto-orbital tension headaches."
+      }
+    ],
+    "relatedSpecialists": ["Neurology", "General Medicine", "Ophthalmology"],
+    "relatedTests": ["Refraction Eye Exam", "Blood Pressure Check", "MRI / CT Brain (if red flags present)"],
+    "relatedDiseases": ["hypertension"]
+  },
+  {
+    "slug": "stomach-pain",
+    "name": "Abdominal Pain",
+    "category": "Digestive & Gastrointestinal",
+    "icon": "Utensils",
+    "tagline": "Evaluating Gut Discomfort: Location, Triggers & Emergency Cues",
+    "summary": "Abdominal pain can stem from organs across the digestive, urinary, and reproductive systems. Location and nature of pain provide key diagnostic clues.",
+    "whatIsIt": "Abdominal pain refers to discomfort or cramping anywhere between the ribs and pelvis. Clinical evaluation focuses on pain onset (acute vs chronic), location (upper, lower, right, left), and relationship to meals.",
+    "commonCauses": [
+      "Gastritis, acidity, and peptic ulcers",
+      "Gastroenteritis (stomach flu or food poisoning)",
+      "Irritable Bowel Syndrome (IBS) and constipation",
+      "Gallstones or kidney stones",
+      "Appendicitis (sharp localized lower right abdominal pain)",
+      "Gynecological causes (menstrual cramps, ovarian cysts, pelvic inflammation)"
+    ],
+    "associatedSymptoms": [
+      "Bloating, burping, and gas",
+      "Nausea, vomiting, or altered bowel movements (diarrhea/constipation)",
+      "Heartburn and burning sensation in upper chest/epigastrium"
+    ],
+    "homeCareAndHydration": [
+      "Sip clear warm fluids, light buttermilk, or rice gruel",
+      "Eat small, bland meals avoiding heavy spices, deep-fried items, and caffeine",
+      "Gentle warmth applied to abdomen with a warm water bottle for muscular cramping"
+    ],
+    "whenToContactDoctor": [
+      "Pain persisting for more than 24-48 hours or steadily worsening",
+      "Pain accompanied by unexplained fever or persistent diarrhea",
+      "Noticeable yellowing of eyes (jaundice) or dark tea-colored urine"
+    ],
+    "emergencyWarningSigns": [
+      "Sudden, excruciating, rigid abdominal pain ('board-like' abdomen)",
+      "Vomiting blood or passing black tarry stools",
+      "Severe lower right quadrant pain with fever (possible appendicitis)",
+      "Inability to pass urine, gas, or stool"
+    ],
+    "safetyDisclaimer": "Educational guide only. Avoid taking strong painkillers without medical evaluation as they can mask appendicitis or peritonitis.",
+    "faqs": [
+      {
+        "question": "How do doctors localize abdominal pain?",
+        "answer": "Clinicians divide the abdomen into four quadrants (right upper, left upper, right lower, left lower). For example, right upper pain often relates to the gallbladder or liver, while right lower pain often suggests the appendix."
+      }
+    ],
+    "relatedSpecialists": ["Gastroenterology", "General Medicine", "Gynaecology"],
+    "relatedTests": ["Abdominal Ultrasound", "Urine Routine", "Liver Function Test", "Complete Blood Count"],
+    "relatedDiseases": ["typhoid"]
+  },
+  {
+    "slug": "joint-pain",
+    "name": "Joint Pain (Arthralgia)",
+    "category": "Musculoskeletal",
+    "icon": "Bone",
+    "tagline": "Joint Comfort: Osteoarthritis, Viral Arthralgia & Mobility Care",
+    "summary": "Joint pain can affect knees, shoulders, hips, fingers, or ankles. Understanding whether it is degenerative or inflammatory guides effective management.",
+    "whatIsIt": "Joint pain (arthralgia) refers to discomfort, stiffness, warmth, or swelling arising from any joint in the human skeleton. It can involve joint cartilage, synovial fluid, ligaments, or surrounding muscle tendons.",
+    "commonCauses": [
+      "Osteoarthritis (wear-and-tear cartilage degeneration, especially knees)",
+      "Post-viral arthralgia (frequent after Dengue or Chikungunya fevers)",
+      "Rheumatoid arthritis and autoimmune inflammatory joint conditions",
+      "Gout (uric acid crystal deposition, often in the big toe)",
+      "Tendinitis, bursitis, and sports injuries"
+    ],
+    "associatedSymptoms": [
+      "Morning stiffness lasting more than 30 minutes",
+      "Swelling, tenderness, and warmth over the joint",
+      "Crackling or popping sounds (crepitus) with movement",
+      "Reduced range of movement and difficulty climbing stairs"
+    ],
+    "homeCareAndHydration": [
+      "Low-impact exercise like walking and swimming to strengthen supporting quadriceps muscles",
+      "Hot and cold therapy (ice packs for acute swellings, warm compresses for chronic stiffness)",
+      "Maintain a healthy body weight to reduce mechanical load on knees and hips"
+    ],
+    "whenToContactDoctor": [
+      "Pain persisting for weeks or worsening during weight-bearing",
+      "Swollen joints accompanied by low-grade fever or skin rash",
+      "Difficulty performing daily mobility activities"
+    ],
+    "emergencyWarningSigns": [
+      "Sudden, severely hot, red, and intensely painful joint with high fever (possible septic arthritis)",
+      "Inability to bear any weight after a fall or trauma"
+    ],
+    "safetyDisclaimer": "Educational summary only. Consult an orthopaedic or rheumatology specialist for definitive evaluation.",
+    "faqs": [
+      {
+        "question": "Does cracking knuckles cause arthritis?",
+        "answer": "No. Scientific studies show that habitual knuckle popping does not cause arthritis, although excessive pulling can strain surrounding ligaments."
+      }
+    ],
+    "relatedSpecialists": ["Orthopaedics", "Physiotherapy"],
+    "relatedTests": ["Digital X-Ray", "Serum Uric Acid", "Rheumatoid Factor (RA) & Anti-CCP", "Erythrocyte Sedimentation Rate (ESR)"],
+    "relatedDiseases": ["dengue"]
+  }
+]

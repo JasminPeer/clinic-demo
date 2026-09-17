@@ -1,0 +1,156 @@
+[
+  {
+    "term": "Anemia",
+    "letter": "A",
+    "simpleDefinition": "A condition where blood has a lower than normal number of healthy red blood cells or hemoglobin, leading to fatigue and paleness.",
+    "clinicalContext": "Frequently caused by iron deficiency, chronic blood loss, or vitamin B12 deficiency. Diagnosed via a Complete Blood Count (CBC).",
+    "category": "Hematology"
+  },
+  {
+    "term": "Antibiotic",
+    "letter": "A",
+    "simpleDefinition": "A medicine used to treat infections caused by bacteria. Antibiotics do not work against viruses like the common cold or flu.",
+    "clinicalContext": "Should only be taken when prescribed by a doctor and completed for the full recommended duration to prevent antimicrobial resistance.",
+    "category": "Pharmacology"
+  },
+  {
+    "term": "Blood Pressure (BP)",
+    "letter": "B",
+    "simpleDefinition": "The pressure of circulating blood against the walls of blood vessels. Measured in two numbers: Systolic (when heart beats) over Diastolic (when heart rests).",
+    "clinicalContext": "Normal healthy adult reading is generally around 120/80 mmHg.",
+    "category": "Cardiology"
+  },
+  {
+    "term": "Biopsy",
+    "letter": "B",
+    "simpleDefinition": "The medical removal of a small sample of tissue or cells from the body for microscopic examination by a pathologist.",
+    "clinicalContext": "Used to diagnose conditions such as skin disorders, tumors, or unexplained inflammatory lesions.",
+    "category": "Diagnostics"
+  },
+  {
+    "term": "Complete Blood Count (CBC)",
+    "letter": "C",
+    "simpleDefinition": "A routine blood test that evaluates your overall health and detects a wide range of disorders, including anemia, infection, and platelet counts.",
+    "clinicalContext": "Measures red blood cells, white blood cells, hemoglobin, hematocrit, and platelets.",
+    "category": "Diagnostics"
+  },
+  {
+    "term": "Cholesterol",
+    "letter": "C",
+    "simpleDefinition": "A waxy fat-like substance found in all the cells of the body. While essential in moderate amounts, high levels of 'bad' LDL cholesterol can narrow arteries.",
+    "clinicalContext": "Evaluated via a fasting Lipid Profile blood test.",
+    "category": "Metabolism"
+  },
+  {
+    "term": "Diabetes Mellitus",
+    "letter": "D",
+    "simpleDefinition": "A chronic medical condition where the body cannot properly process glucose (sugar) from food into energy, resulting in elevated blood sugar levels.",
+    "clinicalContext": "Can be Type 1 (autoimmune lack of insulin) or Type 2 (insulin resistance often linked to genetics and lifestyle).",
+    "category": "Endocrinology"
+  },
+  {
+    "term": "Dialysis",
+    "letter": "D",
+    "simpleDefinition": "A medical procedure that removes waste products and excess fluid from the blood when the kidneys are unable to do so naturally.",
+    "clinicalContext": "Performed using hemodialysis machines or peritoneal dialysis catheters in advanced kidney impairment.",
+    "category": "Nephrology"
+  },
+  {
+    "term": "Electrocardiogram (ECG / EKG)",
+    "letter": "E",
+    "simpleDefinition": "A quick, painless test that records the electrical signals produced by your heart as it beats.",
+    "clinicalContext": "Used to detect irregular heart rhythms (arrhythmias), heart attacks, and poor blood flow to the heart muscle.",
+    "category": "Cardiology"
+  },
+  {
+    "term": "Endoscopy",
+    "letter": "E",
+    "simpleDefinition": "A medical procedure where a doctor inserts a thin, flexible tube with a camera and light into the body to look inside an organ or cavity.",
+    "clinicalContext": "Commonly used in the stomach (gastroscopy), colon (colonoscopy), or nasal passages.",
+    "category": "Gastroenterology"
+  },
+  {
+    "term": "Fast-acting Glucose",
+    "letter": "F",
+    "simpleDefinition": "Simple sugars that are quickly absorbed into the bloodstream, used immediately to treat sudden hypoglycemia (low blood sugar).",
+    "clinicalContext": "Includes glucose tablets, fruit juices, or honey.",
+    "category": "Endocrinology"
+  },
+  {
+    "term": "Gastroesophageal Reflux Disease (GERD)",
+    "letter": "G",
+    "simpleDefinition": "A digestive disorder where stomach acid repeatedly flows back up into the tube connecting your mouth and stomach (esophagus), causing heartburn.",
+    "clinicalContext": "Managed with lifestyle adjustments, diet modifications, and acid-suppressing medications.",
+    "category": "Gastroenterology"
+  },
+  {
+    "term": "Hypertension",
+    "letter": "H",
+    "simpleDefinition": "The medical term for high blood pressure, where the force of the blood against your artery walls is consistently too high (≥ 140/90 mmHg).",
+    "clinicalContext": "Known as a 'silent killer' because it usually produces no noticeable symptoms in early stages.",
+    "category": "Cardiology"
+  },
+  {
+    "term": "HbA1c",
+    "letter": "H",
+    "simpleDefinition": "A simple blood test that reflects your average blood sugar levels over the past 2 to 3 months by measuring sugar attached to hemoglobin.",
+    "clinicalContext": "A reading of 6.5% or above indicates diabetes; below 5.7% is considered normal.",
+    "category": "Diagnostics"
+  },
+  {
+    "term": "Insulin",
+    "letter": "I",
+    "simpleDefinition": "A natural hormone produced by the pancreas that acts like a key, allowing blood sugar to enter the body's cells to be used for fuel.",
+    "clinicalContext": "In Type 1 diabetes the pancreas produces little or no insulin; in Type 2 the body's cells become resistant to it.",
+    "category": "Endocrinology"
+  },
+  {
+    "term": "Jaundice",
+    "letter": "J",
+    "simpleDefinition": "A yellowish tint to the skin and the whites of the eyes caused by a buildup of a natural yellow pigment called bilirubin in the bloodstream.",
+    "clinicalContext": "Commonly signifies liver inflammation, bile duct blockages, or rapid red blood cell breakdown.",
+    "category": "Gastroenterology"
+  },
+  {
+    "term": "Magnetic Resonance Imaging (MRI)",
+    "letter": "M",
+    "simpleDefinition": "A non-invasive medical imaging test that uses strong magnetic fields and radio waves to generate detailed 3D pictures of organs and soft tissues.",
+    "clinicalContext": "Does not use ionizing radiation, making it ideal for examining the brain, spine, joints, and ligaments.",
+    "category": "Imaging"
+  },
+  {
+    "term": "Platelets",
+    "letter": "P",
+    "simpleDefinition": "Tiny, disc-shaped cell fragments in the blood that stick together to form clots and stop bleeding when a blood vessel is damaged.",
+    "clinicalContext": "Normal range is 150,000 to 450,000 per microliter. Monitored closely during vector-borne fevers like Dengue.",
+    "category": "Hematology"
+  },
+  {
+    "term": "Spirometry",
+    "letter": "S",
+    "simpleDefinition": "A standard lung function test that measures how much air you can breathe in and out, and how quickly you can blow the air out.",
+    "clinicalContext": "Essential for diagnosing and monitoring Asthma and Chronic Obstructive Pulmonary Disease (COPD).",
+    "category": "Pulmonology"
+  },
+  {
+    "term": "Thyroid Stimulating Hormone (TSH)",
+    "letter": "T",
+    "simpleDefinition": "A hormone produced by the pituitary gland in the brain that tells the thyroid gland how much thyroid hormone to produce.",
+    "clinicalContext": "High TSH generally indicates an underactive thyroid (hypothyroidism); low TSH suggests an overactive thyroid (hyperthyroidism).",
+    "category": "Endocrinology"
+  },
+  {
+    "term": "Ultrasound (Sonography)",
+    "letter": "U",
+    "simpleDefinition": "A diagnostic imaging technique that uses high-frequency sound waves to produce live images of internal organs, blood vessels, or a developing fetus.",
+    "clinicalContext": "Completely radiation-free, safe for pregnancy, and highly effective for abdominal and pelvic examinations.",
+    "category": "Imaging"
+  },
+  {
+    "term": "Vaccination",
+    "letter": "V",
+    "simpleDefinition": "The administration of an antigen or vaccine to stimulate the body's immune system to build protective antibodies against a specific infectious disease.",
+    "clinicalContext": "Protects individuals and the broader community through herd immunity.",
+    "category": "Immunology"
+  }
+]
